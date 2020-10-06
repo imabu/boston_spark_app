@@ -1,15 +1,3 @@
-# boston_spark_app
+# Homework at Data Engineer course 
 
-*add project short description*
-
-## Accessing the library
-
-*How to access the code*
-
-## Documentation
-
-*A link to the documentation*
-
-## How to contribute
-
-*How others can contribute to the project*
+Spark application for getting aggregation data 
